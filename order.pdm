@@ -1118,7 +1118,7 @@ PhysOpts=
 
 [ModelOptions\Default Opts\JIDX]
 PhysOpts=</a:ModelOptionsText>
-<a:RepositoryFilename>E:\atstudy\component-order-database\order.pdm</a:RepositoryFilename>
+<a:RepositoryFilename>E:\atstudy\databases\component-order-database\order.pdm</a:RepositoryFilename>
 <c:DBMS>
 <o:Shortcut Id="o3">
 <a:ObjectID>0038B433-A270-422A-8590-DD0BF62BA827</a:ObjectID>
